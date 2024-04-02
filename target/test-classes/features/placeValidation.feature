@@ -13,7 +13,7 @@ Scenario Outline: Verify if place is being successfullu added using AddPlaceAPI
 Examples: 
 	|address								|name  	|language	|	
 	|Himganga Niwas A Nagar	|ITHub 	|English	|
-#	|Himganga Niwas A Pune	|SOP		|English	|
+	|Himganga Niwas A Pune	|SOP		|English	|
 
 
 @DeletePlace @Regression
